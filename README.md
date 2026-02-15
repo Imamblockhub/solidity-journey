@@ -14,7 +14,7 @@ This repository documents my journey learning Solidity and Blockchain developmen
 - Build real-world Web3 products
 - Contribute to open-source
 
-- ## 👋 Contribute to This Project
+## 👋 Contribute to This Project
 
 Check the Issues tab and start contributing!
 
